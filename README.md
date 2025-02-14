@@ -1,4 +1,6 @@
 Study MBBS Abroad - Responsive Landing Page
+
+
 📌 Project Overview
 This project is a responsive landing page designed for students interested in pursuing an MBBS degree abroad. The page provides key details about top destinations, the admission process, eligibility criteria, and includes a lead generation form for inquiries.
 
@@ -25,7 +27,7 @@ Tracking: Google Analytics & Facebook Pixel
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/study-mbbs-abroad.git
+[git clone https://github.com/asmit137/Healthcare_langingpage.git]
 cd study-mbbs-abroad
 2️⃣ Open in a Code Editor
 Use VS Code, Sublime Text, or any preferred editor.
@@ -45,6 +47,7 @@ Edit
 │── README.md              # Project documentation
 
 🎯 Key Implementations
+
 📌 1. Lead Generation Form Validation (JS + PHP)
 JavaScript is used to validate inputs before submission.
 
@@ -62,6 +65,7 @@ Fast Loading using optimized images & Bootstrap.
 This project is open-source and available under the MIT License.
 
 👨‍💻 Author & Contact
+
 📧 Email: asmitgawande1307@gmail.com
 🔗 GitHub: https://github.com/asmit137
 
