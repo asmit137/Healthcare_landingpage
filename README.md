@@ -16,8 +16,7 @@ This project is a responsive landing page designed for students interested in pu
 
 🛠️ Tech Stack
 Frontend: HTML, CSS (Bootstrap), JavaScript
-Backend (optional for form handling): PHP / Node.js
-Tracking: Google Analytics & Facebook Pixel
+
 
 🚀 Live Demo
 🔗 [View Live (https://healthcare-langingpage.vercel.app/)]
