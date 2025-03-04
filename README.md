@@ -2,9 +2,13 @@ Study MBBS Abroad - Responsive Landing Page
 
 
 📌 Project Overview
-This project is a responsive landing page designed for students interested in pursuing an MBBS degree abroad. The page provides key details about top destinations, the admission process, eligibility criteria, and includes a lead generation form for inquiries.
+
+This project is a responsive landing page designed for students interested in pursuing an MBBS degree abroad. 
+The page provides key details about top destinations, the admission process, eligibility criteria, and includes a lead generation form for inquiries.
+
 
 📂 Features
+
 ✅ Hero Section – Engaging banner with CTA (Apply Now)
 
 ✅ Why Study MBBS Abroad – Key benefits of studying abroad
@@ -68,11 +72,16 @@ Structured content with proper H1, H2, H3 tags.
 Fast Loading using optimized images & Bootstrap.
 
 💡 Future Improvements
+
 🔹 Add backend integration with a database (MongoDB, Firebase, MySQL).
+
 🔹 Implement animations for better UX.
+
 🔹 Enable multi-language support.
 
+
 📜 License
+
 This project is open-source and available under the MIT License.
 
 👨‍💻 Author & Contact
