@@ -6,32 +6,43 @@ This project is a responsive landing page designed for students interested in pu
 
 📂 Features
 ✅ Hero Section – Engaging banner with CTA (Apply Now)
+
 ✅ Why Study MBBS Abroad – Key benefits of studying abroad
+
 ✅ Top Countries – List of preferred study destinations
+
 ✅ Admission Process – Step-by-step guide in a flowchart format
+
 ✅ Lead Generation Form – Collects user details (name, email, phone, country preference)
+
 ✅ SEO Optimized – Meta tags & structured content
-✅ Google Analytics & Facebook Pixel – Integrated for tracking
+
 ✅ Fully Responsive – Built with Bootstrap for mobile & desktop compatibility
 
 🛠️ Tech Stack
+
 Frontend: HTML, CSS (Bootstrap), JavaScript
 
 
 🚀 Live Demo
+
 🔗 [View Live (https://healthcare-langingpage.vercel.app/)]
 
+
 📁 Project Setup & Installation
+
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+
 [git clone https://github.com/asmit137/Healthcare_langingpage.git]
+
 cd study-mbbs-abroad
+
 2️⃣ Open in a Code Editor
+
 Use VS Code, Sublime Text, or any preferred editor.
 
 3️⃣ Run Locally
+
 Simply open index.html in a browser or use Live Server in VS Code.
 
 📝 File Structure
